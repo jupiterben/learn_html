@@ -1,3 +1,4 @@
 {
-    "livePreview.defaultPreviewPath": "/css/grid/index.html"
+    "livePreview.defaultPreviewPath": "/css/grid/index.html",
+    "explorer.excludeGitIgnore": true
 }
